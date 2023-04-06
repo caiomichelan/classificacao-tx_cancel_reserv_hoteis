@@ -41,4 +41,3 @@ Observação: Para este cálculo foi considerado: 97% (assertividade do modelo) 
 
 # 7. Próximos Passos
 Como próximos passos serão definidos estudos detalhados sobre as características dos clientes de modo isolado, permitindo que a equipe de Marketing possa focar em cada tipo de público considerando suas particularidades e, assim, definir uma estratégia mais assertiva.
-
