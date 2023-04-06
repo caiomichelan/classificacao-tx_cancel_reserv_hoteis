@@ -2,6 +2,9 @@
 
 ## Data Science Project - Taxa de Cancelamento de Reservas de Hotéis
 
+![Hotel_01](https://user-images.githubusercontent.com/104601836/230490095-52a95967-0a34-4306-a0e3-e8510de8ca6f.jpg)
+
+
 # 1. Problema do Negócio
 A Costa del Data (empresa fictícia) é uma tradicional rede hoteleira espanhola. Ela possui hoje hotéis de 4 e 5 estrelas em todo o território nacional.
 A empresa está preocupada com as suas projeções para os próximos anos, visando a recuperação financeira com o fim das restrições impostas pela pandemia de Covid-19.
